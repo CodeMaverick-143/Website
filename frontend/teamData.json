@@ -1,0 +1,129 @@
+{
+    "mentors": [
+      {
+        "name": "Mentor Name 1",
+        "GitHub": "https://github.com/mentor1",
+        "LinkedIn": "https://linkedin.com/in/mentor1",
+        "Instagram": "https://instagram.com/mentor1",
+        "profilePhoto": "/image/mentor1.jpg"
+      },
+      {
+        "name": "Mentor Name 2",
+        "GitHub": "https://github.com/mentor2",
+        "LinkedIn": "https://linkedin.com/in/mentor2",
+        "Instagram": "https://instagram.com/mentor2",
+        "profilePhoto": "/image/mentor2.jpg"
+      }
+    ],
+    "teams": {
+      "frontend": {
+        "lead": {
+          "name": "Frontend Lead Name",
+          "GitHub": "https://github.com/frontend-lead",
+          "LinkedIn": "https://linkedin.com/in/frontend-lead",
+          "Instagram": "https://instagram.com/frontend-lead",
+          "profilePhoto": "/image/frontend_lead.jpg"
+        },
+        "members": [
+          {
+            "name": "Frontend Member 1",
+            "GitHub": "https://github.com/frontend-member1",
+            "LinkedIn": "https://linkedin.com/in/frontend-member1",
+            "Instagram": "https://instagram.com/frontend-member1",
+            "profilePhoto": "/image/frontend_member1.jpg"
+          }
+        ]
+      },
+      "backend": {
+        "lead": {
+          "name": "Backend Lead Name",
+          "GitHub": "https://github.com/backend-lead",
+          "LinkedIn": "https://linkedin.com/in/backend-lead",
+          "Instagram": "https://instagram.com/backend-lead",
+          "profilePhoto": "/image/backend_lead.jpg"
+        },
+        "members": [
+          {
+            "name": "Backend Member 1",
+            "GitHub": "https://github.com/backend-member1",
+            "LinkedIn": "https://linkedin.com/in/backend-member1",
+            "Instagram": "https://instagram.com/backend-member1",
+            "profilePhoto": "/image/backend_member1.jpg"
+          }
+        ]
+      },
+      "devops": {
+        "lead": {
+          "name": "DevOps Lead Name",
+          "GitHub": "https://github.com/devops-lead",
+          "LinkedIn": "https://linkedin.com/in/devops-lead",
+          "Instagram": "https://instagram.com/devops-lead",
+          "profilePhoto": "/image/devops_lead.jpg"
+        },
+        "members": [
+          {
+            "name": "DevOps Member 1",
+            "GitHub": "https://github.com/devops-member1",
+            "LinkedIn": "https://linkedin.com/in/devops-member1",
+            "Instagram": "https://instagram.com/devops-member1",
+            "profilePhoto": "/image/devops_member1.jpg"
+          }
+        ]
+      },
+      "mobile": {
+        "lead": {
+          "name": "Mobile Lead Name",
+          "GitHub": "https://github.com/mobile-lead",
+          "LinkedIn": "https://linkedin.com/in/mobile-lead",
+          "Instagram": "https://instagram.com/mobile-lead",
+          "profilePhoto": "/image/mobile_lead.jpg"
+        },
+        "members": [
+          {
+            "name": "Mobile Member 1",
+            "GitHub": "https://github.com/mobile-member1",
+            "LinkedIn": "https://linkedin.com/in/mobile-member1",
+            "Instagram": "https://instagram.com/mobile-member1",
+            "profilePhoto": "/image/mobile_member1.jpg"
+          }
+        ]
+      },
+      "designer": {
+        "lead": {
+          "name": "Designer Lead Name",
+          "GitHub": "https://github.com/designer-lead",
+          "LinkedIn": "https://linkedin.com/in/designer-lead",
+          "Instagram": "https://instagram.com/designer-lead",
+          "profilePhoto": "/image/designer_lead.jpg"
+        },
+        "members": [
+          {
+            "name": "Designer Member 1",
+            "GitHub": "https://github.com/designer-member1",
+            "LinkedIn": "https://linkedin.com/in/designer-member1",
+            "Instagram": "https://instagram.com/designer-member1",
+            "profilePhoto": "/image/designer_member1.jpg"
+          }
+        ]
+      },
+      "volunteer": {
+        "lead": {
+          "name": "Volunteer Lead Name",
+          "GitHub": "https://github.com/volunteer-lead",
+          "LinkedIn": "https://linkedin.com/in/volunteer-lead",
+          "Instagram": "https://instagram.com/volunteer-lead",
+          "profilePhoto": "/image/volunteer_lead.jpg"
+        },
+        "members": [
+          {
+            "name": "Volunteer Member 1",
+            "GitHub": "https://github.com/volunteer-member1",
+            "LinkedIn": "https://linkedin.com/in/volunteer-member1",
+            "Instagram": "https://instagram.com/volunteer-member1",
+            "profilePhoto": "/image/volunteer_member1.jpg"
+          }
+        ]
+      }
+    }
+  }
+  
