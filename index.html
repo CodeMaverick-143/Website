@@ -38,7 +38,7 @@
         </div>
 
         <!-- Right Section -->
-        <form class="w-1/2 flex flex-col gap-4">
+        <form id="registerForm" class="w-1/2 flex flex-col gap-4">
             <div>
                 <label for="name" class="block text-sm font-medium mb-1">Full Name</label>
                 <input type="text" id="name" name="name" placeholder="Enter Your Full Name" required 
@@ -82,12 +82,18 @@
             </div>
 
             <div class="mt-4">
-                <input type="submit" value="Create Your Account" 
-                    class="w-full py-3 bg-gradient-to-r from-green-500 via-green-400 to-green-700 text-black font-bold rounded-xl hover:opacity-90 transition-opacity shadow-md">
+                <button type="submit" 
+                    class="w-full py-3 bg-gradient-to-r from-green-500 via-green-400 to-green-700 text-black font-bold rounded-xl hover:opacity-90 transition-opacity shadow-md">Create Account
+                </button>
             </div>
-
         </form>
     </div>
-<script src="index.js"></script>
+
+    <script>
+        document.getElementById('registerForm').addEventListener('submit', (e) => {
+            e.preventDefault();
+            window.location.href = '/frontend/home.html'; // Redirects to the home page on form submission
+        });
+    </script>
 </body>
 </html>
