@@ -1,5 +1,3 @@
-### README.md
-
 # Website
 
 This repository contains the source code for the website hosted at [NSTSDC](https://nstsdc.vercel.app).
