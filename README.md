@@ -12,7 +12,7 @@ This project is a web application built primarily with HTML, JavaScript, and CSS
 - `event.html` - A page dedicated to upcoming events.
 - `login.html` - The login page for users.
 - `login.css` - CSS file for styling the login page.
-- `login.js` - JavaScript file for handling login functionality.
+- `login.js` - JavaScript file for handling login functionality..
 
 ## Recent Changes
 
