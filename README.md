@@ -4,7 +4,7 @@ This repository contains the source code for the website hosted at [NSTSDC](http
 
 ## Description
 
-This project is a web application built primarily with HTML, JavaScript, and CSS. It provides a user-friendly interface for visitors to interact with and navigate through various sections.....
+This project is a web application built primarily with HTML, JavaScript, and CSS. It provides a user-friendly interface for visitors to interact with and navigate through various sections......
 
 ## Project Structure
 
